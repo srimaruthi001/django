@@ -1,4 +1,1 @@
-This is an exmaple`
-this is another file`
-
-this is from the branch
+This is an exmaple``
